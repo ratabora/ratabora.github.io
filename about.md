@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: about ryan
+title: who is ryan tabora?
 tags: [Jekyll, theme, modern, minimal, responsive]
 image:
   feature: nebula.jpg
