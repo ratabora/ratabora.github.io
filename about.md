@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /about/
-title: About Ryan
+title: about ryan
 tags: [Jekyll, theme, modern, minimal, responsive]
 image:
-  feature: abstract-5.jpg
+  feature: nebula.jpg
 share: true
 ---
 
