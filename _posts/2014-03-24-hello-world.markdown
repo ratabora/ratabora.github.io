@@ -3,6 +3,7 @@ layout: post
 title:  "Hello World"
 date:   2014-03-24 18:33:41
 categories: random
+tags: random
 ---
 
 I'm starting up a new blog. This would be my first post. Someday I'll look back at this with nostalgia.
