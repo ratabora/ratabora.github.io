@@ -2,6 +2,7 @@
 layout: post
 title: "The Composition of Life"
 description: "A post about an Alan Watts quote and the meaning of life"
+categories: life
 tags: [spirituality, life]
 ---
 
