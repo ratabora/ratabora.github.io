@@ -10,9 +10,11 @@ I'm starting up a new blog. This would be my first post. Someday I'll look back 
 
 So I'm hoping to use this blog to give examples of various coding tricks I use day to day. Here's a test of the code snippit functionality that jekyll offers via markdown.
 
-	public static void main(String args[]){
-		System.out.println("Hello world");
-	}
+{% highlight java %}
+public static void main(String args[]){
+	System.out.println("Hello world");
+}
+{% endhighlight %}
 
 Cool, looks pretty good.
 
