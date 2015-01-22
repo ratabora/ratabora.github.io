@@ -1,20 +1,11 @@
 ---
 layout: page
+title: About
 permalink: /about/
-title: who is ryan tabora?
-tags: [Jekyll, theme, modern, minimal, responsive]
-image:
-  feature: nebula.jpg
-share: true
 ---
 
-A little bit about me. A little bit about me. A little bit about me. A little bit about me. A little bit about me. A little bit about me. 
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-## Some things you have to know
+You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-* Zombies
-* Bass guitar 
-* Heavy metal
-* Comic books
-* Dachshunds
-* TOOOOOOOOOOOOL
+You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
