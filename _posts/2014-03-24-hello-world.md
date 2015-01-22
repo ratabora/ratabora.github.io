@@ -2,7 +2,6 @@
 layout: post
 title:  "Hello World"
 date:   2014-03-24 18:33:41
-categories: random
 tags: random
 ---
 

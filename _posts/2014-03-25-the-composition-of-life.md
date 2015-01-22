@@ -3,7 +3,6 @@ layout: post
 title: "The Composition of Life"
 description: "A post about an Alan Watts quote and the meaning of life"
 tags: [spirituality, life]
-categories: [life]
 ---
 
 The other day I was listening to the [joe rogan podcast][joe_rogan] (which you should definitely check out if you haven't) and  they brought up a quote by Alan Watts:
