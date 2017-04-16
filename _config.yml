@@ -10,3 +10,5 @@ github_username:  ratabora
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-slate
